@@ -13,9 +13,12 @@ The data have Nitrogen, Phosphorous, Pottasium and pH values of the soil. Also, 
 3) sklearn --- pip install scikit-learn
 4) pickle ----- pip install pickle
 
-#So here comes the fun part
+# So here comes the fun part
 I have also made a GUI application using Tkinter library. You can view it in same repository.
+
+![crop_prediction](https://user-images.githubusercontent.com/72083319/122254336-a886ae80-ceea-11eb-96db-c399b740fb18.PNG)
 
 Thanks for sticking till the end.
 
 Hope you enjoyed this notebook :)
+
